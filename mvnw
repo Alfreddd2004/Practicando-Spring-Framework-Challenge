@@ -10,11 +10,7 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Download](#download)
 - [Editor IDE Eclipse](#editor-ide-eclipse)
-- [Modelado de Tablas](#modelado-de-tablas)
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-- [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
-- [Licencia](#licencia)
-
+- [Modelado de Tablas](#modelado-de-tablas
 ---
 ## Descripción del proyecto:
 <p align="justify">
@@ -58,32 +54,7 @@
    - [Token JWT](https://jwt.io/)
    - [Insonmia](https://insomnia.rest/)
 
-  
-⬇️ 
-## Download
 
-  ### ¿Cómo descargar?
-
-
-  1. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
-
-     <p align="center" >
-     <img width="600" heigth="600" src="https://github.com/Randyfermin/ForoAlura/assets/48891637/ad11f1bc-b530-41ab-920c-c329aef7fd7c">
-     
-     </p></br>
-
-#### 🔹 Clonar o descargar el ZIP
-
-1 - Para clonar, simplemente copia el <em>url</em> resaltado en la imagen y ubicado justo debajo del HTTPS, crea una carpeta en tu computadora, abre el <em>cmd</em> o el <em>git bash</em> dentro de esa carpeta y luego ingresa el comando <strong>git clone</strong> y con el botón derecho del mouse dentro del terminal haz click en la opcion <strong>Paste</strong> para pegar el <em>url</em> y presiona <em>Enter</em>. 
-
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683774-85c78b5e-605f-4643-818f-0bb2eddca175.png">
-</p>
-
-2 - La segunda opción es descargar el código en un paquete <strong>"zipado"</strong> y extraer la carpeta a tu computadora.
-</br></br>
-
-📝 
 ## Editor IDE Eclipse
 
 ### ¿Cómo importar mi proyecto a Eclipse?
@@ -154,25 +125,5 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 ![Lista Perfiles](https://github.com/Randyfermin/ForoAlura/assets/48891637/050e7d37-3fb3-4c9a-a464-bac3e6fb1788)
 ![Lista Topicos por ID](https://github.com/Randyfermin/ForoAlura/assets/48891637/290d1696-573f-4f84-8f5c-4200f69403a6)
 
-## Persona Desarrollador del Proyecto
-
-[<img src="https://avatars.githubusercontent.com/u/48891637?v=4" width=115>
-<br>
-<sub>
-Randolfo Fermin
-</sub>](https://github.com/Randyfermin)
-
-## Licencia
-[Foro Alura Liencia MIT ](https://github.com/Randyfermin/ForoAlura/blob/main/Licencia.txt)
-
-
-
-💙 Alura Latam
-
-[![img](https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/company/alura-latam/mycompany/)
-
-🧡 Oracle
-
-[![img](https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/company/oracle/)
 
 
