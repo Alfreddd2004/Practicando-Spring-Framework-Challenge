@@ -9,8 +9,6 @@
 - [Download](#download)
 - [Editor IDE Eclipse](#editor-ide-eclipse)
 - [Modelado de Tablas](#modelado-de-tablas)
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
----
 ## Descripción del proyecto:
 <p align="justify">
     
