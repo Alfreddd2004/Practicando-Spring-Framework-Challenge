@@ -1,8 +1,5 @@
 # Challenge ONE | Back End | Foro Alura | API-REST
 
-<p align="center" >
-     <img width="200" heigth="200" src="https://user-images.githubusercontent.com/91544872/209678377-70b50b21-33de-424c-bed8-6a71ef3406ff.png">
-</p>
 
 ### índice
 
@@ -11,7 +8,6 @@
 - [Download](#download)
 - [Editor IDE Eclipse](#editor-ide-eclipse)
 - [Modelado de Tablas](#modelado-de-tablas
----
 ## Descripción del proyecto:
 <p align="justify">
     
@@ -124,6 +120,7 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 ![Lista Perfil por ID](https://github.com/Randyfermin/ForoAlura/assets/48891637/0bc0f15d-afaf-4f51-8bc2-a69ef486e28e)
 ![Lista Perfiles](https://github.com/Randyfermin/ForoAlura/assets/48891637/050e7d37-3fb3-4c9a-a464-bac3e6fb1788)
 ![Lista Topicos por ID](https://github.com/Randyfermin/ForoAlura/assets/48891637/290d1696-573f-4f84-8f5c-4200f69403a6)
+
 
 
 
